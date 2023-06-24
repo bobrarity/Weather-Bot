@@ -1,0 +1,6 @@
+venv
+.idea
+__pycache__
+.env
+weather_bot.db
+Procfile
